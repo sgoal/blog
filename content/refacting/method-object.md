@@ -1,3 +1,27 @@
+---
+title: "Replace Method with Method Object"
+date: 
+lastmod: 
+draft: true
+tags: ["refacting"]
+categories: ["refacting"]
+author: "Rogers"
+
+weight: 1
+wordCount: 100
+readingTime: 10
+
+# You can also close(false) or open(true) something for this content.
+# P.S. comment can only be closed
+# comment: false
+# toc: false
+
+# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
+contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
+# reward: false
+mathjax: true
+---
+
 # 用方法对象代替方法
 ## Replace Method with Method Object
 

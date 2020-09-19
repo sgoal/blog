@@ -1,3 +1,28 @@
+---
+title: "代码的坏味道 一"
+date: 
+lastmod: 
+draft: true
+tags: ["refacting"]
+categories: ["refacting"]
+author: "Rogers"
+
+weight: 1
+wordCount: 100
+readingTime: 10
+
+# You can also close(false) or open(true) something for this content.
+# P.S. comment can only be closed
+# comment: false
+# toc: false
+
+# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
+contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
+# reward: false
+mathjax: true
+---
+
+
 # 代码的坏味道 一
 # Duplicate Code
 臭味行列中首当其冲的就是Duplicate Code（重复的代码）。如果你在一个以上的地点看到相同的程序结构，那么当可肯定：设法将它们合而为一，程序会变得更好。
