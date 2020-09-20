@@ -2,7 +2,8 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "localhost:1313"
+# baseURL = "localhost:1313"
+baseURL = "wwww.lday1.com"
 title = "rogers blog"
 enableRobotsTXT = true
 enableEmoji = true
@@ -12,7 +13,7 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 10              # Number of articles displayed on the homepage  # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
+googleAnalytics = "UA-178385380-1"      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 # Highlight options.
@@ -32,7 +33,7 @@ tencent_analytics = ""    # Tencent Analytics
 baidu_push = false        # baidu push                  # 百度
 baidu_analytics = ""      # Baidu Analytics
 baidu_verification = ""   # Baidu Verification
-google_verification = "UA-178385380-1"  # Google_Verification         # 谷歌
+#google_verification = "UA-178385380-1"  # Google_Verification         # 谷歌
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "zh-cn"           # Default language to use
@@ -40,8 +41,8 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   languageCode = "zh-cn"
 
 
-copyright = "Everything is mine"
-customFooter = "京ICP备10000000号-1"
+#copyright = "Everything is mine"
+#customFooter = "京ICP备10000000号-1"
 
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
